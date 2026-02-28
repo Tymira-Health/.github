@@ -3,7 +3,7 @@
 > **Building the Operating System for Modern Healthcare**
 
 [![Website](https://img.shields.io/badge/Website-tymirahealth.com-0A6EBD?style=flat-square&logo=google-chrome&logoColor=white)](https://tymirahealth.com/)
-[![Platform](https://img.shields.io/badge/Platform%20Access-app.talantahrm.com-1DB954?style=flat-square&logo=rocket&logoColor=white)](https://app.talantahrm.com/)
+[![Platform](https://img.shields.io/badge/Platform%20Access-app.tymirahealth.com-1DB954?style=flat-square&logo=rocket&logoColor=white)](https://app.tymirahealth.com/)
 [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20%7C%20Next.js%20%7C%20PostgreSQL-blueviolet?style=flat-square)](#technology-stack)
 [![Architecture](https://img.shields.io/badge/Architecture-DDD%20%7C%20Clean%20%7C%20Multi--tenant-orange?style=flat-square)](#architectural-standards)
 
@@ -216,7 +216,7 @@ We believe healthcare technology must be:
 | | |
 |---|---|
 | 🌍 **Website** | [https://tymirahealth.com/](https://tymirahealth.com/) |
-| 🚀 **Platform Access** | [https://app.talantahrm.com/](https://app.talantahrm.com/) *(Tymira 360 — powered by TalantaHRM)* |
+| 🚀 **Platform Access** | [https://app.tymirahealth.com/](https://app.tymirahealth.com/) |
 | 💼 **LinkedIn** | [Tymira Health](https://www.linkedin.com/company/tymira-health) |
 
 ---
