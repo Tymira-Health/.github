@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-tymirahealth.com-0A6EBD?style=flat-square&logo=google-chrome&logoColor=white)](https://tymirahealth.com/)
 [![Platform](https://img.shields.io/badge/Platform%20Access-app.tymirahealth.com-1DB954?style=flat-square&logo=rocket&logoColor=white)](https://app.tymirahealth.com/)
-[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20%7C%20Next.js%20%7C%20PostgreSQL-blueviolet?style=flat-square)](#technology-stack)
+[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20Core%20%7C%20Next.js%20%7C%20PostgreSQL-blueviolet?style=flat-square)](#technology-stack)
 [![Architecture](https://img.shields.io/badge/Architecture-DDD%20%7C%20Clean%20%7C%20Multi--tenant-orange?style=flat-square)](#architectural-standards)
 
 ---
@@ -113,8 +113,8 @@ Healthcare software must be reliable under stress. Our architecture reflects tha
 
 | Technology | Role |
 |---|---|
-| **Python / FastAPI** | Async REST APIs, async SQLAlchemy ORM |
-| **C# / .NET** | ASP.NET Core services, EF Core, background workers |
+| **Python / FastAPI** | Tymira 360 clinical workflows backend — async REST APIs, async SQLAlchemy ORM |
+| **C# / .NET Core** | Tymira Finance — billing, invoicing, and financial process services (ASP.NET Core, EF Core) |
 | **PostgreSQL** | Constraint-driven relational modeling |
 | **Redis** | Caching, session management, rate limiting |
 | **Event Pipelines** | Async event-capable messaging architecture |
